@@ -12,13 +12,13 @@ before the Main class.
 For running the  this program  first clone this repository
 
 ```CMD
-    git clone 
+    git clone https://github.com/Deepak-coder80/s4-DSA.git
 ```
 
 and go to the repository by 
 
 ```
-    cd 
+    cd s4-DSA
 ```
 
 again goto the problem repository by cd CMD
