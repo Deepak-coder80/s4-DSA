@@ -1,0 +1,4 @@
+check whether the given equation is valid in case of brackets using 
+stack
+
+ALGORITHM:
