@@ -1,11 +1,7 @@
 
 # HOW TO READ
 
-the class are seperated . it because the stack class is same for 
-couple of programs. If you want to be both class in one file :
-remove the public keyword from the both classes and copy the 
-MyStack class from MyStack from MyStack.java file and paste it 
-before the Main class.
+int this folder both classes are in same file . So nothing to worry!!
 
 ## HOW TO RUN
 
