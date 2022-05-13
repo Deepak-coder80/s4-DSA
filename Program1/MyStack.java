@@ -17,11 +17,20 @@ public class MyStack {
     public boolean isFull(){return (top==(max-1));}
     //push();
     public void push(char data){
-        top++;
-        array[top]=data;
+
+        if(isFull()){
+            System.out.println("Can't Push into the stack!");
+        }else{
+            top++;
+            array[top]=data;
+        }
     }
     //pop();
     public char pop(){
+        if(isEmpty()){
+            System.out.println("Can't Pop from the  stack!");
+            return 'f';
+        }
         char c = array[top];
         top--;
         return c;        
