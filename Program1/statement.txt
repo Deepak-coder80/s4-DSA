@@ -1,0 +1,5 @@
+check whether a given string is palindrome or not using stack
+
+
+ALGORITHM:
+
