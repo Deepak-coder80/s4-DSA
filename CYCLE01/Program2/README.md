@@ -31,11 +31,11 @@ Eg.
 and running the program and obtain the output try
 
 ```JAVA
-    javac Main.java
+    javac Problem2.java
 ```
 then,
 ```
-    java Main
+    java Problem2
 ```
 
 ## Authors
