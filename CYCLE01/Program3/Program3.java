@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 class MyStack {
     private char[] array;
@@ -41,7 +41,7 @@ class MyStack {
     public char peek(){return array[top];}
 }
 
-class Problem2 {
+class Problem3 {
     public static void main(String[] args) {
         //create Mystack object
         MyStack skObj = new MyStack(100);
