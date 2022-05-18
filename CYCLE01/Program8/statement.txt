@@ -1,0 +1,4 @@
+Impliment singly linked List with following operations
+    a. Find the average of middle 2 nodes.
+    b. Delete the last node.
+    c. Give two position , Swap the content of them.
